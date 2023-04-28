@@ -1,6 +1,5 @@
 # how to bypass byfron
-check with https://clientsettings.roblox.com/v2/user-channel?binaryType=WindowsPlayer
-if it says {"channelName":"LIVE"} you are safe if anything else YOU ARE NOT SAFE
+byfron is now on live so any channel name is not safe
 1. download [bloxstrap](https://github.com/pizzaboxer/bloxstrap/releases/tag/v2.2.0)
 2. [Optional] Turn off ReShade in the Integrations tab.
 3. Go to Installation tab.

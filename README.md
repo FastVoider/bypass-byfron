@@ -14,5 +14,5 @@ byfron is now on live so any channel name is not safe
 # THINGS THAT DONT WORK
 auto-attach
 auto-launch
-### ISSUES
+# ISSUES
 bloxstrap is currently broken I assume. 3:29 am 4/28/23 CST

@@ -8,3 +8,4 @@
 1. open task manager
 2. make sure it looks like this
 <img src="https://cdn.discordapp.com/attachments/1063774278912331816/1101360802147082310/image.png" alt="not byfron" title="not byfron">
+3. now your safe to exploit

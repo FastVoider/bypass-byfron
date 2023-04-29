@@ -11,6 +11,5 @@ byfron is now on live so any channel name is not safe
 <img src="https://cdn.discordapp.com/attachments/1063774278912331816/1101360802147082310/image.png" alt="not byfron" title="not byfron">
 3. now your safe to exploit
 (DO NOT CHECK WITH https://clientsettings.roblox.com/v2/user-channel?binaryType=WindowsPlayer it will stay the same, but you are safe)
-# misc
-auto-attach
-auto-launch
+ALSO
+auto-attach/auto-launch WILL NOT WORK!!
